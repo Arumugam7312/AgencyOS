@@ -1,0 +1,6 @@
+{
+  "name": "AgencyOS",
+  "description": "All-in-one business operating system for agencies and freelancers to manage clients, projects, invoices, payments, meetings, team members, and AI tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
